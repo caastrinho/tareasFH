@@ -9,7 +9,7 @@ La primera es la primera que nos manda crear la tarea y la segunda es la clonaci
 
 Ahora añadimos un segundo adaptador de red en cada una de las dos máquinas.
 
-![Imagen 2](configuracion_red/imagenes_configuracion_red/img2.png)
+![Imagen 2](./imagenes_configuracion_red/img2.png)
 
 Y hacemos lo mismo con la clonación.
 
